@@ -98,9 +98,10 @@
 
 
 ![](nBcM0Fh.gif)
-<br clear="both"/>
-  <img src="her.gif" width="400" height="580" > <img align="right" src="godspee.gif" width="600" height="580" >
-<br clear="both"/>
+
+  <img src="her.gif" width="400" height="580" > <img align="right" src="godspee.gif" width="580" height="580" >
+
+
 <p align="center">
  <img align="center" src="FOHwC9zUYAErUI2.jpg" > 
 </p>
