@@ -99,7 +99,7 @@
 
 ![](nBcM0Fh.gif)
 
-  <img src="her.gif"  > <img src="godspee.gif" height="580">
+  <img src="her.gif"  width="240" height="580"> <img src="godspee.gif" height="580">
 
 
 <p align="center">
