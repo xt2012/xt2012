@@ -86,7 +86,7 @@
        ,-, ,`   `   (_,\ \    |   /) / __/  /   `----`
       (-, \           ) \ ('_.-._)/ /,`    /
       | /  `          `/ \\ V   V, /`     /
-   ,--\(        ,     <_/`\\     ||      /  i told you to not stare at it
+   ,--\(        ,     <_/`\\     ||      /  i told you not to stare at it
   (   ,``-     \/|         \-A.A-`|     /
  ,>,_ )_,..(    )\          -,,_-`  _--`
 (_ \|`   _,/_  /  \_            ,--`
@@ -94,7 +94,7 @@
 ```
 
 
-## the wizards of time are dead and long gone
+## ~~^.,,,,,^]][~
 
 
 ![](nBcM0Fh.gif)
