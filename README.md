@@ -94,7 +94,7 @@
 ```
 
 
-## ~~^.,,,,,^]][~
+## godspee!
 
 
 ![](nBcM0Fh.gif)
@@ -102,10 +102,9 @@
 <p align="center">
    <img src="godspee.gif" height="580">
 </p>
-
+<!--
 <p align="center">
  <img align="center" src="FOHwC9zUYAErUI2.jpg" > 
 </p>
-
-<!--
 [](her.gif) 
+-->
