@@ -27,10 +27,10 @@ The images below show some of the schematics/3D models of the board and the simu
 ![img9](works/3dPowerMeter1.jpg)
 ![img10](works/3dPowerMeter2.jpg)
 ![img11](works/SMASim.jpg)
-![pwrmetergif](works/powermeter.gif)
+![pwrmetergif]()
 
 <p align="center">
-   <img src="godspee.gif" height="280">
+   <img src="works/powermeter.gif" height="580">
 </p>
 <!--
 <p align="center">
