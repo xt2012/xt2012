@@ -18,7 +18,7 @@ The images below show some of the schematics/3D models of the board.
 ## 1MHz to 10GHz Power Meter with AD8319
 
 This project consists of a wideband RF power meter designed around the AD8319 RF Logarithmic Detector, capable of measuring signal power across a broad frequency range from 1 MHz to 10 GHz. For this board, eletromagnetic simulations were necessary for impedance matching at the inteface between the SMA connector and the 50 Ohm track leading it to the AD8319.
-The images below show some of the schematics/3D models of the board.
+The images below show some of the schematics/3D models of the board and the simulations done and the results.
 
 ![img5](works/schematicPowerMeter.jpg)
 ![img6](works/tracksPowerMeter1.jpg)
@@ -27,7 +27,7 @@ The images below show some of the schematics/3D models of the board.
 ![img9](works/3dPowerMeter1.jpg)
 ![img10](works/3dPowerMeter2.jpg)
 ![img11](works/SMASim.jpg)
-![img12](works/SMASimResults.jpg)
+![pwrmetergif](works/powermeter.gif)
 
 <p align="center">
    <img src="godspee.gif" height="280">
