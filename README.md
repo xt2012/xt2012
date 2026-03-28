@@ -27,6 +27,7 @@ The images below show some of the schematics/3D models of the board and the simu
 ![img9](works/3dPowerMeter1.jpg)
 ![img10](works/3dPowerMeter2.jpg)
 ![img11](works/SMASim.jpg)
+![img11](works/SMASimResults.jpg)
 ![pwrmetergif]()
 
 <p align="center">
